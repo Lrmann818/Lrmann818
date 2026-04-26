@@ -17,3 +17,9 @@ Right now I'm focused on building practical projects that people can actually us
 
 ## A Bit About My Projects
 Lore Ledger is going to be my flagship polished portfolio project. I am currently working on it almost exclusively. Occasionally I make 'handouts' or puzzles for my DnD group that are hosted here as well. 
+
+## Links
+
+- 🌐 **Portfolio:** [lrmann818.github.io](https://lrmann818.github.io)
+- 📘 **Lore Ledger:** [lore-ledger.com](https://lore-ledger.com)
+- 💻 **GitHub:** [github.com/Lrmann818](https://github.com/Lrmann818)
