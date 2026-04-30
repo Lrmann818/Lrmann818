@@ -22,4 +22,4 @@ Lore Ledger is going to be my flagship polished portfolio project. I am currentl
 
 - 🌐 **Portfolio:** [lrmann818.github.io](https://lrmann818.github.io)
 - 📘 **Lore Ledger:** [lore-ledger.com](https://lore-ledger.com)
-- 💻 **GitHub:** [github.com/Lrmann818](https://github.com/Lrmann818)
+- 💻 **GitHub:** [github.com/Lrmann818.io](https://lrmann818.github.io/)
